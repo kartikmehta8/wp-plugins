@@ -16,6 +16,7 @@ This repository contains a collection of WordPress plugins, categorized by their
 |-------------|-------------|------|
 | wp-options-visualizer | A WordPress plugin to manage, search, add, edit, and delete wp-options directly from the admin panel with security. | [Link](https://github.com/kartikmehta8/wp-options-visualizer) |
 | wp-hooks-visualizer | WP Hooks Visualizer is a WordPress plugin that allows users to easily search and view all registered hooks (actions and filters). | [Link](https://github.com/kartikmehta8/wp-hooks-visualizer) |
+| wp-developer-logs | A WordPress plugin for logging and managing custom developer logs with an AJAX-driven interface and secure, OOP-based design. | [Link](https://github.com/kartikmehta8/wp-developer-logs) |
 
 ### Security Plugins
 
