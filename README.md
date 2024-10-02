@@ -5,6 +5,7 @@ This repository contains a collection of WordPress plugins, categorized by their
 ### Table of Contents
 - [Dev-Tools Plugins](#dev-tools-plugins)
 - [Security Plugins](#security-plugins)
+- [Auth Plugins](#auth-plugins)
 <!--
 - [POC (Proof of Concept) Plugins](#poc-proof-of-concept-plugins)
 - [Other Plugins](#other-plugins)
@@ -23,6 +24,11 @@ This repository contains a collection of WordPress plugins, categorized by their
 | Plugin Name | Description | Link |
 |-------------|-------------|------|
 | wp-captcha | A customizable WordPress plugin that adds CAPTCHA to the login page, enhancing security by preventing automated login attempts. | [Link](https://github.com/kartikmehta8/wp-captcha) |
+
+### Auth Plugins
+| Plugin Name | Description | Link |
+|-------------|-------------|------|
+| wp-appwrite-auth | A plugin that integrates Appwrite login with the WordPress login page, allowing users to sign in using Appwrite credentials | [Link](https://github.com/kartikmehta8/wp-appwrite-login) |
 
 <!--
 ## POC (Proof of Concept) Plugins
