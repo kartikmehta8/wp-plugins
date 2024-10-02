@@ -28,7 +28,7 @@ This repository contains a collection of WordPress plugins, categorized by their
 ### Auth Plugins
 | Plugin Name | Description | Link |
 |-------------|-------------|------|
-| wp-appwrite-auth | A plugin that integrates Appwrite login with the WordPress login page, allowing users to sign in using Appwrite credentials | [Link](https://github.com/kartikmehta8/wp-appwrite-login) |
+| wp-appwrite-login | A plugin that integrates Appwrite login with the WordPress login page, allowing users to sign in using Appwrite credentials. | [Link](https://github.com/kartikmehta8/wp-appwrite-login) |
 
 <!--
 ## POC (Proof of Concept) Plugins
